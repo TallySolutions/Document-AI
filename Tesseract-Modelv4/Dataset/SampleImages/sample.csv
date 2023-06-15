@@ -1,6 +1,6 @@
 ,block_num,line_num,left,top,width,height,conf,text,nextDist
 0,1,1,32,35,285,93,43.760906,payin,475
-1,1,1,792,81,152,20,0.0,rmnwoce,-901
+1,1,1,792,81,152,20,0.0,rmnwoce,-899
 2,3,1,43,163,68,18,96.488281,Invoice,8
 3,3,1,119,163,80,18,93.032722,number:,8
 4,3,1,207,164,158,17,91.810379,PM22B3467677,931
@@ -44,7 +44,7 @@
 42,5,1,604,463,77,17,82.025917,"Bengaluru,",5
 43,5,1,686,462,74,15,92.003036,Kamataka,6
 44,5,1,766,463,59,16,37.601818,"$60061,",4
-45,5,1,829,463,35,14,96.745705,India,-822
+45,5,1,829,463,35,14,96.745705,India,-743
 46,12,1,42,513,69,23,68.780449,Screen,7
 47,12,1,118,512,8,24,68.780449,1,-84
 48,12,2,42,553,91,23,85.280228,Gold-J19,7
@@ -333,36 +333,63 @@
 331,16,1,757,2168,129,14,38.400703,"O9AAACO4007A1Z3,",3
 332,16,1,889,2168,26,12,92.983109,CIN:,4
 333,16,1,919,2168,166,12,42.412415,L7ZZ200DLZ2000PLC108985,0
-334,1,0,32,35,912,66,21.880453,payin rmnwoce ,-901
-335,3,0,43,163,1569,109,87.92980925,"Invoice number: PM22B3467677 Monday,24th October 10:00 PM: Customer Details: 9008511911 Booking 1D:280661/19448192990 Booking Date: Monday,October 24,2022 ",-1570
-336,4,0,42,288,228,19,86.47766633333333,Order ID: 19448192990 ,-227
-337,5,0,43,368,821,109,79.49042236,"Kantara Kannada ,U/A Balajt 4K Atmos 3D Cinema, Chikkalasandea Uttarahallt Main Rd Balaji Cinemas, 64/1, Krishna Towers, Uttarahalll Main Road, Chikkalsandra, Bengaluru, Kamataka $60061, India ",-822
-338,12,0,42,513,126,740,79.986495125,Screen 1 Gold-J19 - 23 Order Summary Total Amount 129.80 Charges Booking Charge %110.00 (HSN/ SAC Code: 998599) -Sub Total (A) % 110.00 “Taxes Central Goods and Sérvice Tax @ 9%. 29.90 State Goods and Service Tax @9% 29.90 Sub Total (B) 2.19.80 Total Amount (A+B) = 129.80 ‘Transaction ID: 18952798939 Klosk ID: 281852732447566610 Important Notes: ,-127
-339,13,0,41,1266,1334,205,85.6160658227848,"Value of INR 1000 pertains to services provided by Theatre/Event Organizer Clnema Owner - Balajt 4K Atmos 3D Cinema, Chikkalasandra Uttarahallt Main Rd, Audi Sereen 1. Payment has been received through online payment mode. . Tickets & food once ordered cannot be exchanged, cancelled or refunded. Children aged 3 years and above will require a separate ticket. The 30 glasses will be available at the cinema ‘for 30 films and must beretumed before you exit the premises. 3D Glasses are chargeable (refundable/non- refundable) as per Individual | cinema policies, Items like laptop, cameras,knifes, lighter,match box, clgarettes, firearms and all types of inflammable objects are strictly prohibited. Items like carrybags eatables, helmets, handbags are not allowed Inside the theaters are strictly prohibited, Kindly: deposit at the baggage ‘counter of mall/ cinéma. Please check the suitability of the movie as per the Censor Board tating. Cinema management holds Rights of Admission and can deny admisston for compliance of cinema policies. ",-1333
-340,14,0,42,1482,456,71,86.74801188372089,"@ U:Unrestricted Public Exhibition throughout India, suitable for all age groups” ® A: Viewing restricted to adults above 18 years only @ U/A: Unrestricted public exhibition with parental guidance for children below age 12 @ $:Filmis meant for specialized audience such as doctors ",-456
-341,15,0,42,1588,708,20,86.16833799999999,"Registered Office Address : First Floor, Devika Tower, Nehru Place, New Delhi, DL; 110019, INDIA ",-708
-342,16,0,42,2168,1043,12,79.7565541875,"ONES? COMMUNICATIONS LIMITED, 8-121, Sector-S, Nolda, Gautam Buddha Nagar, Uttar Pradesh, 207301, GSTIN: O9AAACO4007A1Z3, CIN: L7ZZ200DLZ2000PLC108985 ",0
-343,1,1,32,35,912,66,21.880453,payin rmnwoce ,-901
-344,3,1,43,163,1572,29,87.97766814285715,"Invoice number: PM22B3467677 Monday,24th October 10:00 PM: ",-1573
-345,3,2,42,208,302,24,95.16716000000001,Customer Details: 9008511911 ,-301
-346,3,3,43,244,1569,28,84.2552985,"Booking 1D:280661/19448192990 Booking Date: Monday,October 24,2022 ",-1570
-347,4,1,42,288,228,19,86.47766633333333,Order ID: 19448192990 ,-227
-348,5,1,43,368,821,109,79.49042236,"Kantara Kannada ,U/A Balajt 4K Atmos 3D Cinema, Chikkalasandea Uttarahallt Main Rd Balaji Cinemas, 64/1, Krishna Towers, Uttarahalll Main Road, Chikkalsandra, Bengaluru, Kamataka $60061, India ",-822
-349,12,1,42,513,84,23,68.780449,Screen 1 ,-84
-350,12,2,42,553,137,23,89.18520633333333,Gold-J19 - 23 ,-137
-351,12,3,42,652,1605,18,90.9860064,Order Summary Total Amount 129.80 ,-1440
-352,12,5,290,759,1246,14,61.90305566666667,Booking Charge %110.00 ,-1246
-353,12,6,290,792,194,24,81.40536125,(HSN/ SAC Code: 998599) ,-283
-354,12,7,201,840,1337,21,70.5140014,-Sub Total (A) % 110.00 ,-1338
-355,12,9,290,944,1246,26,81.722398875,Central Goods and Sérvice Tax @ 9%. 29.90 ,-1247
-356,12,10,289,974,1247,18,78.50442385714287,State Goods and Service Tax @9% 29.90 ,-1329
-357,12,11,207,1018,1331,22,79.43960200000001,Sub Total (B) 2.19.80 ,-1331
-358,12,12,207,1084,1334,27,83.6920198,Total Amount (A+B) = 129.80 ,-1417
-359,12,13,124,1152,1405,20,79.93068383333333,‘Transaction ID: 18952798939 Klosk ID: 281852732447566610 ,-1487
-360,12,14,42,1239,126,14,77.79212150000001,Important Notes: ,-127
-361,13,1,41,1266,1334,205,85.10507011347516,"Value of INR 1000 pertains to services provided by Theatre/Event Organizer Clnema Owner - Balajt 4K Atmos 3D Cinema, Chikkalasandra Uttarahallt Main Rd, Audi Sereen 1. Payment has been received through online payment mode. . Tickets & food once ordered cannot be exchanged, cancelled or refunded. Children aged 3 years and above will require a separate ticket. The 30 glasses will be available at the cinema ‘for 30 films and must beretumed before you exit the premises. 3D Glasses are chargeable (refundable/non- refundable) as per Individual | cinema policies, Items like carrybags eatables, helmets, handbags are not allowed Inside the theaters are strictly prohibited, Kindly: deposit at the baggage ‘counter of mall/ cinéma. Please check the suitability of the movie as per the Censor Board tating. Cinema management holds Rights of Admission and can deny admisston for compliance of cinema policies. ",-1333
-362,13,2,42,1400,965,17,89.85432435294118,"Items like laptop, cameras,knifes, lighter,match box, clgarettes, firearms and all types of inflammable objects are strictly prohibited. ",-965
-363,14,1,42,1482,647,52,85.93889099999997,"@ U:Unrestricted Public Exhibition throughout India, suitable for all age groups” ® A: Viewing restricted to adults above 18 years only @ U/A: Unrestricted public exhibition with parental guidance for children below age 12 ",-647
-364,14,2,42,1535,456,18,89.8046907777778,@ $:Filmis meant for specialized audience such as doctors ,-456
-365,15,1,42,1588,708,20,86.16833799999999,"Registered Office Address : First Floor, Devika Tower, Nehru Place, New Delhi, DL; 110019, INDIA ",-708
-366,16,1,42,2168,1043,12,79.7565541875,"ONES? COMMUNICATIONS LIMITED, 8-121, Sector-S, Nolda, Gautam Buddha Nagar, Uttar Pradesh, 207301, GSTIN: O9AAACO4007A1Z3, CIN: L7ZZ200DLZ2000PLC108985 ",0
+334,1,0,32,35,285,93,43.760906,payin ,475
+335,1,0,792,81,152,20,0.0,rmnwoce ,-899
+336,3,0,43,163,306,18,93.77712733333334,Invoice number: PM22B3467677 ,931
+337,3,0,1296,168,286,33,83.62807375,"Monday,24th October 10:00 PM: ",-1573
+338,3,0,42,208,290,24,95.16716000000001,Customer Details: 9008511911 ,-301
+339,3,0,43,244,321,32,63.5211905,Booking 1D:280661/19448192990 ,848
+340,3,0,1222,248,370,24,94.62235249999999,"Booking Date: Monday,October 24,2022 ",-1570
+341,4,0,42,288,215,19,86.47766633333333,Order ID: 19448192990 ,-227
+342,5,0,43,368,75,20,93.249916,Kantara ,-76
+343,5,0,42,409,101,16,49.322384,"Kannada ,U/A ",-105
+344,5,0,42,436,62,19,70.848917,Balajt 4K ,19
+345,5,0,127,439,358,29,76.62630785714285,"Atmos 3D Cinema, Chikkalasandea Uttarahallt Main Rd ",-468
+346,5,0,42,463,765,33,85.9449143076923,"Balaji Cinemas, 64/1, Krishna Towers, Uttarahalll Main Road, Chikkalsandra, Bengaluru, Kamataka $60061, India ",-743
+347,12,0,42,513,77,24,68.780449,Screen 1 ,-84
+348,12,0,42,553,124,23,89.18520633333333,Gold-J19 - 23 ,-137
+349,12,0,42,652,151,21,96.520554,Order Summary ,1108
+350,12,0,1307,649,131,22,96.95192349999999,Total Amount ,116
+351,12,0,1560,648,87,22,67.985077,129.80 ,-1440
+352,12,0,207,732,62,17,96.632095,Charges ,21
+353,12,0,290,759,112,17,88.07938,Booking Charge ,1065
+354,12,0,1472,759,64,14,9.550407,%110.00 ,-1246
+355,12,0,290,792,177,24,81.40536125,(HSN/ SAC Code: 998599) ,-283
+356,12,0,201,840,124,29,91.61882033333335,-Sub Total (A) ,1114
+357,12,0,1452,844,79,17,38.856773,% 110.00 ,-1338
+358,12,0,200,904,52,17,83.967453,“Taxes ,38
+359,12,0,290,944,251,17,80.75520114285713,Central Goods and Sérvice Tax @ 9%. ,924
+360,12,0,1491,947,45,23,88.492783,29.90 ,-1247
+361,12,0,289,974,241,19,79.543003,State Goods and Service Tax @9% ,937
+362,12,0,1489,974,47,18,72.272949,29.90 ,-1329
+363,12,0,207,1018,117,23,94.03887200000001,Sub Total (B) ,1128
+364,12,0,1465,1019,73,21,35.641792,2.19.80 ,-1331
+365,12,0,207,1084,230,29,96.54230266666667,Total Amount (A+B) ,979
+366,12,0,1433,1085,99,30,64.4165955,= 129.80 ,-1417
+367,12,0,124,1152,209,23,92.63127899999999,‘Transaction ID: 18952798939 ,945
+368,12,0,1288,1152,232,20,67.23008866666667,Klosk ID: 281852732447566610 ,-1487
+369,12,0,42,1239,122,17,77.79212150000001,Important Notes: ,-127
+370,13,0,41,1266,632,19,79.82968484615384,Value of INR 1000 pertains to services provided by Theatre/Event Organizer Clnema Owner ,-7
+371,13,0,720,1260,536,28,76.4242953076923,"- Balajt 4K Atmos 3D Cinema, Chikkalasandra Uttarahallt Main Rd, Audi Sereen 1. ",-1272
+372,13,0,42,1292,398,21,94.434326375,Payment has been received through online payment mode. ,454
+373,13,0,928,1286,2,2,0.0,. ,-889
+374,13,0,41,1319,501,20,95.57739963636364,"Tickets & food once ordered cannot be exchanged, cancelled or refunded. ",-543
+375,13,0,42,1346,415,30,82.68242363636364,Children aged 3 years and above will require a separate ticket. ,-457
+376,13,0,41,1373,110,18,87.87484733333334,The 30 glasses ,0
+377,13,0,159,1373,1124,24,89.7888481923077,will be available at the cinema ‘for 30 films and must beretumed before you exit the premises. 3D Glasses are chargeable (refundable/non- refundable) as per Individual ,-2
+378,13,0,1389,1369,5,27,72.62986,| ,-1
+379,13,0,1393,1373,117,19,46.4518395,"cinema policies, ",-1473
+380,13,0,42,1400,890,17,89.85432435294118,"Items like laptop, cameras,knifes, lighter,match box, clgarettes, firearms and all types of inflammable objects are strictly prohibited. ",-965
+381,13,0,42,1427,774,31,86.0707688125,"Items like carrybags eatables, helmets, handbags are not allowed Inside the theaters are strictly prohibited, Kindly: ",-2
+382,13,0,882,1427,328,28,87.196454125,deposit at the baggage ‘counter of mall/ cinéma. ,-1196
+383,13,0,42,1454,428,30,94.83737808333335,Please check the suitability of the movie as per the Censor Board ,0
+384,13,0,521,1445,787,30,79.73499199999999,tating. Cinema management holds Rights of Admission and can deny admisston for compliance of cinema policies. ,-1333
+385,14,0,42,1482,11,11,53.152508,@ ,17
+386,14,0,70,1481,529,20,89.6133584,"U:Unrestricted Public Exhibition throughout India, suitable for all age groups” ",-597
+387,14,0,42,1501,11,11,52.62627,® ,16
+388,14,0,69,1500,345,17,85.27072322222222,A: Viewing restricted to adults above 18 years only ,-404
+389,14,0,42,1521,13,16,62.131237,@ ,15
+390,14,0,70,1520,572,17,90.87018216666667,U/A: Unrestricted public exhibition with parental guidance for children below age 12 ,-647
+391,14,0,42,1535,413,17,89.8046907777778,@ $:Filmis meant for specialized audience such as doctors ,-456
+392,15,0,42,1588,627,33,86.16833799999999,"Registered Office Address : First Floor, Devika Tower, Nehru Place, New Delhi, DL; 110019, INDIA ",-708
+393,16,0,42,2168,991,16,79.7565541875,"ONES? COMMUNICATIONS LIMITED, 8-121, Sector-S, Nolda, Gautam Buddha Nagar, Uttar Pradesh, 207301, GSTIN: O9AAACO4007A1Z3, CIN: L7ZZ200DLZ2000PLC108985 ",0
